@@ -1,0 +1,9 @@
+{
+  "name": "@41north/prettier-config",
+  "version": "1.0.0",
+  "description": "A base prettier config for the 41North organization",
+  "main": ".prettierrc.js",
+  "repository": "https://github.com/41north/prettier-config",
+  "license": "MIT",
+  "scripts": {}
+}
